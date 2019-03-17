@@ -1,0 +1,546 @@
+body{
+    font-family:  'Montserrat', sans-serif;
+    color: #404d6f;
+}
+
+a {
+    color: rgb(18,18,18);
+}
+a :hover {
+    color:rgb(127,127,127);
+     text-decoration: none;
+}
+#signup{
+    color: rgb(99,32,238);
+}
+.idnumber{
+    height:50px;
+    width: 100%;
+    padding-top: 70px;
+/*    font-size: 15px;*/
+}
+nav{
+    font-family:  'Montserrat', sans-serif;
+   
+}
+ #no{
+    font-size: 25px;
+    
+}
+.col-lg-10 {
+    text-align: center;
+}
+
+#niyasphoto {
+    height: 150px;
+    width: 150px;    
+}
+#gpa{
+    padding-left: 60px;
+}
+
+#social {
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+
+}
+#socialtext {
+    font-size: 15px;
+}
+#socialicon {
+    font-size: 25px;
+}
+
+#container {
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+
+#editshare{
+    padding-top: 10px;
+}
+#editshareicon {
+    color: rgb(99,32,238);
+    font-size: 20px;   
+}
+#skillicon {
+    color:rgb(41,255,185);
+    font-size: 15px;
+}
+#niyasname {
+    font-size: 35px;
+    margin-top: 5px;
+    font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+#aboutniyas {
+    font-size: 15px;
+    color:  rgb(75,73,74);
+}
+#overlap {
+    font-size: 100px;
+    color:rgb(41,255,185);
+    padding-left: 40px;
+    padding-bottom: 80px;
+}
+.interest{
+    margin-top: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+#lang {
+    text-align: center;
+    font-size: 15px;
+    border: solid rgb(238,238,238) 1px;
+    border-radius: 10%;
+    padding: 10px;
+}
+.academic {
+    padding-top: 10px;
+    font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+#cgpa {
+    font-size: 25px;
+    padding-right: 10px;
+}
+#institute{
+    font-size: 15px;
+}
+#verticalline {
+    border-left: solid rgb(238,238,238) 2px;
+    border-right: solid rgb(238,238,238) 2px;
+}
+.academicstats {
+    text-align: center;
+}
+.learning{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+.topic {
+    padding-top:20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    box-shadow: 5px -5px 10px rgb(226,226,226);
+ 
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+   
+    
+}
+#block {
+    padding-top: 2px;
+    padding-left: 15px;
+    border-left: solid rgb(52,221,140) 20px;
+    height: 75px;
+     font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);    
+}
+#date {
+    padding-right: 20px;
+    font-size: 15px;
+    float: right;
+}
+#verticallineright {
+    border-right: solid rgb(238,238,238) 2px;
+}
+#coursesyllabus {
+    padding-top: 20px;
+    padding-right: 10px;
+    float: right;
+    color: rgb(18,18,18);
+}
+.dummy {
+    height:50px;
+}
+.dummy1 {
+    height: 100px;
+}
+#graphs {
+    padding-left: 50px;
+    padding-bottom: 50px;
+    height: 250px;
+    width:250px;
+}
+.practice {
+    height: 100px;
+    padding-top: 25px;    
+     font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+      
+}
+#exclamatory {
+    float:right;
+    padding-top: 20px;
+    font-size: 30px;
+    padding-right: 10px;
+    
+}
+#codeself {
+    padding-left: 10px;
+    width: 300px;
+    margin-left: 20px;
+    border-bottom: solid rgb(226,226,226) 1px;
+     font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+  
+}
+#round {
+    padding: 20px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    border: solid rgb(226,226,226) 1px;
+    border-radius: 100%;
+    padding-top: 30px;
+    margin-left: 25px;
+    padding-right: 20px;
+    margin-top: 30px; 
+    box-shadow: 5px -5px 10px rgb(226,226,226);
+ 
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+  
+    
+}
+#rst {
+    padding-top: 20px;
+    padding-left: 40px;
+  
+}
+
+#total {
+    padding-top: 20px;
+    padding-left: 30px;
+}
+.progress {
+    margin-top: 10px;
+    width: 80%;
+}
+.git {
+    text-align: center;
+     margin-left: 35%;
+    margin-right: 35%;
+     border: solid rgb(238,238,238) 1px;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
+#alpround {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+     border: solid rgb(226,226,226) 1px;
+    border-radius: 100%;
+    box-shadow: 5px -5px 10px rgb(226,226,226);
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px; 
+   margin-right: 25%;
+    margin-left: 25%;
+    padding-top: 8px;
+    
+}
+#langnameper {
+    margin-left: 20px;
+}
+#tabletitle {
+    text-align: center;
+    font-size: 20px;    
+} 
+#legendround {
+    width:18px ;
+    height:18px ;
+     text-align: center;
+     border: solid rgb(226,226,226) 1px;
+    border-radius: 100%;
+    float: right;
+    font-size: 8px;
+    padding-top: 3px;
+}
+#legendtext {
+    float: left;
+}
+.leftmar {
+    margin-left: 0px;
+}
+.oneproject {
+     padding-top: 2px;
+    padding-left: 15px;
+    border-right: solid rgb(52,221,140) 20px;
+    height: 75px;
+      font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+#projectnumber {
+    padding-left: 20px;
+     box-shadow: 5px -5px 10px rgb(226,226,226);
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+    padding: 50px;
+    width:30%;
+    margin-left: 20px;
+    margin-right: 28px;
+   
+  
+        
+}
+#pythontext {
+    width: 70px;
+    height: 25px;
+    margin-top: 20px;
+    padding-top: 5px;
+    text-align: center;
+    color: blueviolet;
+    margin-left: 30px;
+      border: solid rgb(238,238,238) 1px;
+    border-radius: 10%;
+}
+#pythonicon {
+    color: rgb(18,18,18);
+    float:right;
+    font-size: 30px;
+}
+#stopwatch {
+    font-size: 30px;
+    color: rgb(127,40,241)
+}
+.activity {
+    padding-top:20px;
+    padding-bottom: 20px;
+      font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+.imgact{
+    height: 400px;
+}
+#actiimg{
+    height: 500px;
+    width: 100%;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 50px;
+}
+.lastweekact {
+    margin-top: 30px;
+       box-shadow: 5px -5px 10px rgb(226,226,226);
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+}
+#lasttext {
+    padding-left: 20px;
+    padding-top: 30px;
+}
+#paypal {
+    padding-left: 250px;
+    height: 100px;
+    
+}
+
+#singleintern {
+/*    width: 45%;*/
+/*    border: solid rgb(238,238,238) 1px;*/
+           box-shadow: 5px -5px 10px rgb(226,226,226);
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+    margin-left: 20px;
+
+    color: rgb(18,18,18);
+   
+}
+#comp {
+    padding-left: 20px;
+    
+}
+#hack {
+    text-align: center;
+    padding-top: 20px;
+  
+}
+#singleinternright {
+
+   margin-right: 20px; 
+    height: 235px;
+
+/*     border: solid rgb(238,238,238) 1px;*/
+           box-shadow: 5px -5px 10px rgb(226,226,226);
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+    color: rgb(18,18,18);
+}
+
+#udacityimg {
+    height: 100px;
+    width: 100px;
+    
+}
+#udacitytext {
+    height: 50px;
+    width: 100%;
+    
+}
+#bookmark {
+    height: 50px;
+    width: 100px;
+    
+}
+#verticaldummy{
+   width:200px;
+}
+#hackicon {
+    font-size: 75px;
+    color: rgb(127,40,241) 
+}
+#dbs {
+    height:100px;
+    width: 300px;
+}
+#oneplacement {
+ border: solid rgb(238,238,238) 1px;
+ margin: 10px;
+      font-family: 'Muli', sans-serif;;
+    color: rgb(18,18,18);
+}
+#inf{
+    font-size: 20px;
+}
+#tick{
+    color: limegreen;
+    font-size: 20px;
+}
+#xing{
+    font-size:20px;
+    color: red;
+}
+#extlink {
+    padding-left: 20px;
+}
+.links{
+    width:48%;
+    box-shadow: 5px -5px 10px rgb(226,226,226);
+    border-left:solid rgb(226,226,226) 1px;
+    border-bottom:solid rgb(226,226,226) 1px;
+    padding: 10px;
+    margin-bottom: 20px;
+   
+    color: rgb(18,18,18);
+}
+#portfoliocss{
+    color: rgb(18,18,18);
+}
+#placementcss{
+    color: rgb(18,18,18);
+}
+#coffeemug{
+    padding-top: 20px;
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+
+
+
+#pallette{
+    color: limegreen;
+}
+#bigdummy{
+    height: 500px;
+    width: 100%;
+    
+}
+footer{
+    background-image: linear-gradient(rgb(38,38,38), rgb(1,1,1));
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    border-radius: 1%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+#coffee{
+    text-align: center;
+}
+#footernotes{
+    border-left: solid rgb(52,221,140) 5px;
+        border-right: solid rgb(226,226,226) 1px;
+    padding-left: 80px;
+}
+#guviicon {
+    width:100px;
+    height:60px;
+}
+.table{
+    
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+    margin-right: 100px;
+}
+
+}
+#tablelan{
+   width: 30%;
+    margin-top: 100px;
+    padding-left: 100px;
+    
+  
+   
+}
+#tablelevel{
+    text-align: center;
+padding-top: 20px;
+    width: 20%;
+    
+}
+#tableper{ text-align: center;
+padding-top: 20px;
+    width: 20%;
+    
+}
+/*
+#tabletopic{
+    padding-left:  -left: 575px;
+    width: 30%;
+}
+*/
+#downres{
+    margin-top: 10px;
+    width: 80px;
+   
+}
+#downresicon {
+    margin: 20px;
+    float: right;
+    font-size: 20px;
+    color: blue;
+}
+
+#update{
+    margin-top: 10px;
+    border: solid rgb(226,226,226) 1px;
+    
+}
+#resumecss{
+    color: rgb(18,18,18);
+    font-family: Mouli;
+}
+#resumecssicon{
+    color:blue;
+}
+#coffeemugtext{
+    padding-top: 10px;
+    padding-right: 30px;
+    font-size: 20px;
+}
+
